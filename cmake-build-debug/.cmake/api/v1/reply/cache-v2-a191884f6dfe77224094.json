@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Lenovo/CLionProjects/Sleep/cmake-build-debug"
+			"value" : "c:/Users/Lenovo/Documents/GitHub/P3-Group12-Jackfruit/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -431,7 +431,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Lenovo/CLionProjects/Sleep/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Lenovo/Documents/GitHub/P3-Group12-Jackfruit/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -503,7 +503,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Lenovo/CLionProjects/Sleep"
+			"value" : "C:/Users/Lenovo/Documents/GitHub/P3-Group12-Jackfruit"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Lenovo/CLionProjects/Sleep/cmake-build-debug"
+			"value" : "C:/Users/Lenovo/Documents/GitHub/P3-Group12-Jackfruit/cmake-build-debug"
 		},
 		{
 			"name" : "Sleep_IS_TOP_LEVEL",
@@ -1159,7 +1159,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Lenovo/CLionProjects/Sleep"
+			"value" : "C:/Users/Lenovo/Documents/GitHub/P3-Group12-Jackfruit"
 		},
 		{
 			"name" : "_CMAKE_LINKER_PUSHPOP_STATE_SUPPORTED",
